@@ -1,0 +1,43 @@
+body{
+    
+    border:10px solid grey;
+    font-size:25px;
+}
+.hi{
+    background-image:url("https://newsonair.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-28-at-4.25.19-PM-1-1024x532.jpeg");
+    background-size:cover;
+   
+    
+    
+}
+
+
+
+
+.html{
+    border:5px solid black;
+    width:560px;
+    height:750px;
+    font-size:16px;
+    background-image:url("https://img.freepik.com/premium-photo/watercolor-light-green-ombre-background-texture_145343-652.jpg?w=1480");
+}
+.image
+{
+   
+   height:250px;
+    width:25px;
+    display:flex;
+    text-align:center;
+    align-items:center;
+}
+img{
+    width:200px;
+     height:200px;
+    border-radius: 50%;
+}
+    
+.new{
+    display:flex;
+    justify-content:center;
+
+}
